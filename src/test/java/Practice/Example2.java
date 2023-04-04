@@ -6,6 +6,8 @@ public class Example2 {
 	System.out.println("project is updated");
 System.out.println("project is not updated");
 System.out.println("project");
+		System.out.println("my name");
+	
 	}
 
 }
