@@ -11,6 +11,6 @@ public class Example1 {
 
 	public void ex2()
 	{
-		System.out.println("Example2");
+		System.out.println("Exam");
 	}
 }
